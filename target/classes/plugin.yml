@@ -1,9 +1,0 @@
-name: DeathSwap
-version: '1.0-SNAPSHOT'
-main: me.cable.deathswap.DeathSwap
-api-version: '1.20'
-
-commands:
-  deathswap:
-    aliases: [ "ds" ]
-    permission: "deathswap.deathswap"
