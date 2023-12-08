@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DeathSwap">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="DeathSwap.jar">
+      <element id="module-output" name="DeathSwap" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
